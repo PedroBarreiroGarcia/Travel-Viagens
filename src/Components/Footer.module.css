@@ -1,0 +1,39 @@
+.AreaFooter{
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 1px 0 1px ;
+
+}
+
+.textFooterMaior{
+    color: #fff;
+    font-size: 20px;
+    margin: 2px;
+}
+
+.AreaRedesSocias{
+    margin: auto;
+    width:30%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.espacoIcon{
+    width:10%;
+    height: 40px;
+}
+
+.espacoIcon img{
+    width:100%;
+    height: 100%;
+}
+
+.textFooterMenor{
+    color: #fff;
+    margin: 2px;
+}

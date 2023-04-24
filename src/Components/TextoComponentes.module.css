@@ -1,0 +1,18 @@
+.corpo_texto{
+    width: 25%;
+    height: auto;
+    border-radius: 10px;
+    background-color: #ffffff98;
+    margin-left: 750px;
+}
+
+h2,p{
+    padding: 10px;
+    color: black;
+}
+
+.corpo_texto img{
+    width: 15%;
+    height: 55px;
+    padding: 10px;
+}
